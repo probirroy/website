@@ -1,0 +1,6 @@
+{
+  "name": "Shoe Store & Admin Dashboard",
+  "description": "A stylish, fully functional shoe e-commerce website with a complete admin dashboard, inventory management, and integrated sub-continental mock payment options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
